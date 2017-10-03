@@ -2,4 +2,4 @@
 
 
 This is innovation project "Autumn Yellow".Supported by my tutor and his laboratory, our project adopt different algorithms and finally decided to use MEANSHIFT for tracking algorithms,and "centroid- based multi-target tracking counting algorithm" for counting algorithms.Our project will be adopted by SiChuan Police Security Department for future development due in great part to long period association bewteen the lab and the department.
-More details could be found on ...
+
